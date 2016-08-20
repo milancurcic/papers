@@ -15,7 +15,7 @@
 
 **2.** Donelan, M. A., **M. Curcic**, S. S. Chen, and A. K. Magnusson, 2012: Modeling waves and wind stress, *J. Geophys. Res. Oceans*, **117**, C00J23, doi:10.1029/2011JC007787. [PDF](https://github.com/milancurcic/publications/blob/master/Donelan_etal_JGR2012.pdf)
 
-**1.** Nickovic S., V. Djurdjevic, M. Vujadinovic, Z. I. Janjic, **M. Curcic**, B. Rajkovic, 2011: Method for efficient prevention of gravity wave decoupling on rectangular semi-staggered grids, *J. Comp. Phys.*, **230**, 1865-1875. [PDF](https://github.com/milancurcic/publications/blob/master/Nickovic_etal_JGR2011.pdf)
+**1.** Nickovic S., V. Djurdjevic, M. Vujadinovic, Z. I. Janjic, **M. Curcic**, B. Rajkovic, 2011: Method for efficient prevention of gravity wave decoupling on rectangular semi-staggered grids, *J. Comp. Phys.*, **230**, 1865-1875. [PDF](https://github.com/milancurcic/publications/blob/master/Nickovic_etal_JCP2011.pdf)
 
 ### License
 
