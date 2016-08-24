@@ -1,4 +1,6 @@
 
+**10.** Mariano, A. J., E. H. Ryan, H. S. Huntley, L.C. Laurindo, E. Coelho, A. Griffa, T. M. Özgökmen, M. Berta, D. Bogucki, S. S. Chen, **M. Curcic**, K. L. Drouin, M. Gough, B. K. Haus, A. C. Haza, P. Hogan, M. Iskandarani, G. Jacobs, A. D. Kirwan Jr., N. Laxague, B. Lipphardt Jr., M. G. Magaldi, G. Novelli, A. Reniers, J. M. Restrepo, C. Smith, A. Valle-Levinson, and M. Wei, 2016: Statistical properties of the surface velocity field in the northern Gulf of Mexico sampled by GLAD drifters,  *J. Geophys. Res. Oceans*, **121**, 5193–5216, doi:10.1002/2015JC011569. [PDF](https://github.com/milancurcic/publications/blob/master/Mariano_etal_JGR2016.pdf)
+
 **9.** Judt, F., S. S. Chen, and **M. Curcic**, 2016: Atmospheric forcing of the upper ocean transport in the Gulf of Mexico: From seasonal to diurnal scales, *J. Geophys. Res. Oceans*, **121**, 4416–4433, doi:10.1002/2015JC011555. [PDF](https://github.com/milancurcic/publications/blob/master/Judt_etal_JGR2016.pdf)
 
 **8.** **Curcic, M.**, S. S. Chen, and T. M. Özgökmen, 2016: Hurricane-induced ocean waves and Stokes drift and their impacts on surface transport and dispersion in the Gulf of Mexico, *Geophys. Res. Lett.*, **43**, 2773–2781, doi:10.1002/2015GL067619. [PDF](https://github.com/milancurcic/publications/blob/master/Curcic_etal_GRL2016.pdf)
