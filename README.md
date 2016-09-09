@@ -9,7 +9,7 @@
 
 **7.** Chen, S. S. and **M. Curcic**, 2016: Ocean surface waves in Hurricane Ike (2008) and Superstorm Sandy (2012): Coupled modeling and observations, *Oce. Mod.*, **103**, 161-176. doi:10.1016/j.ocemod.2015.08.005. [PDF](https://github.com/milancurcic/publications/blob/master/Chen_and_Curcic_OM2016.pdf)
 
-**6.** **Curcic, M.**, 2015: Explicit air-sea momentum exchange in coupled atmosphere-wave-ocean modeling of tropical cyclones, Ph.D. Thesis, University of Miami. [Link](http://scholarlyrepository.miami.edu/oa_dissertations/1512)
+**6.** **Curcic, M.**, 2015: Explicit air-sea momentum exchange in coupled atmosphere-wave-ocean modeling of tropical cyclones, *Ph.D. Thesis*, University of Miami. [Link](http://scholarlyrepository.miami.edu/oa_dissertations/1512)
 
 **5.** Coelho, E. F., P. Hogan, G Jacobs, P Thoppil, H. S. Huntley, B. K. Haus, B. L. Lipphardt, A. D. Kirwan, E. H. Ryan, J. Olascoaga, F. Beron-Vera, A. C. Poje, A. Griffa, T. M. Özgökmen, A. J. Mariano, G. Novelli, A. C. Haza, D. Bogucki, S. S. Chen, **M. Curcic**, M. Iskandarani, F. Judt, N. Laxague, A. J. H. M. Reniers, A. Valle-Levinson, M. Wei, 2015: Ocean current estimation using a multi-model ensemble Kalman filter during the Grand Lagrangian Deployment experiment (GLAD), Oce. Mod., **87**, 86-106, doi:10.1016/j.ocemod.2014.11.001. [PDF](https://github.com/milancurcic/publications/blob/master/Coelho_etal_OM2015.pdf)
 
