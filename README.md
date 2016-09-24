@@ -1,5 +1,7 @@
 
-**11.** Mariano, A. J., E. H. Ryan, H. S. Huntley, L.C. Laurindo, E. Coelho, A. Griffa, T. M. Özgökmen, M. Berta, D. Bogucki, S. S. Chen, **M. Curcic**, K. L. Drouin, M. Gough, B. K. Haus, A. C. Haza, P. Hogan, M. Iskandarani, G. Jacobs, A. D. Kirwan Jr., N. Laxague, B. Lipphardt Jr., M. G. Magaldi, G. Novelli, A. Reniers, J. M. Restrepo, C. Smith, A. Valle-Levinson, and M. Wei, 2016: Statistical properties of the surface velocity field in the northern Gulf of Mexico sampled by GLAD drifters,  *J. Geophys. Res. Oceans*, **121**, 5193–5216, doi:10.1002/2015JC011569. [PDF](https://github.com/milancurcic/publications/blob/master/Mariano_etal_JGR2016.pdf)
+**12.** Mariano, A. J., E. H. Ryan, H. S. Huntley, L.C. Laurindo, E. Coelho, A. Griffa, T. M. Özgökmen, M. Berta, D. Bogucki, S. S. Chen, **M. Curcic**, K. L. Drouin, M. Gough, B. K. Haus, A. C. Haza, P. Hogan, M. Iskandarani, G. Jacobs, A. D. Kirwan Jr., N. Laxague, B. Lipphardt Jr., M. G. Magaldi, G. Novelli, A. Reniers, J. M. Restrepo, C. Smith, A. Valle-Levinson, and M. Wei, 2016: Statistical properties of the surface velocity field in the northern Gulf of Mexico sampled by GLAD drifters,  *J. Geophys. Res. Oceans*, **121**, 5193–5216, doi:10.1002/2015JC011569. [PDF](https://github.com/milancurcic/publications/blob/master/Mariano_etal_JGR2016.pdf)
+
+**11.** Kim, E., M. Lance, M. Curcic, S. S. Chen, C. Phillips, and P. Veers, 2016: On the use of coupled wind, wave, and current fields in the simulation of loads on bottom-supported offshore wind turbines during hurricanes, Technical Report NREL/TP--5000-65283, National Renewable Energy Lab. (NREL), Golden, CO, United States, doi:10.2172/1266702. [Link](http://www.osti.gov/scitech/biblio/1266702)
 
 **10.** Judt, F., S. S. Chen, and **M. Curcic**, 2016: Atmospheric forcing of the upper ocean transport in the Gulf of Mexico: From seasonal to diurnal scales, *J. Geophys. Res. Oceans*, **121**, 4416–4433, doi:10.1002/2015JC011555. [PDF](https://github.com/milancurcic/publications/blob/master/Judt_etal_JGR2016.pdf)
 
@@ -20,6 +22,10 @@
 **2.** Donelan, M. A., **M. Curcic**, S. S. Chen, and A. K. Magnusson, 2012: Modeling waves and wind stress, *J. Geophys. Res. Oceans*, **117**, C00J23, doi:10.1029/2011JC007787. [PDF](https://github.com/milancurcic/publications/blob/master/Donelan_etal_JGR2012.pdf)
 
 **1.** Nickovic S., V. Djurdjevic, M. Vujadinovic, Z. I. Janjic, **M. Curcic**, B. Rajkovic, 2011: Method for efficient prevention of gravity wave decoupling on rectangular semi-staggered grids, *J. Comp. Phys.*, **230**, 1865-1875. [PDF](https://github.com/milancurcic/publications/blob/master/Nickovic_etal_JCP2011.pdf)
+
+### Citations
+
+For citation statistics, see my [Google Scholar profile](https://scholar.google.com/citations?user=NS217eUAAAAJ&hl=en).
 
 ### License
 
