@@ -1,4 +1,4 @@
-**14.** Laxague, N. J. M.,  M. Curcic, J. V. Björkqvist, and B. K. Haus, 2017: Gravity-capillary wave spectral modulation by gravity waves, *IEEE Trans. Geosci. Rem. Sens.*, In Press, doi:10.1109/TGRS.2016.2645539. [PDF](https://github.com/milancurcic/publications/blob/master/Laxague_etal_IEEE2017.pdf)
+**14.** Laxague, N. J. M.,  **M. Curcic**, J. V. Björkqvist, and B. K. Haus, 2017: Gravity-capillary wave spectral modulation by gravity waves, *IEEE Trans. Geosci. Rem. Sens.*, In Press, doi:10.1109/TGRS.2016.2645539. [PDF](https://github.com/milancurcic/publications/blob/master/Laxague_etal_IEEE2017.pdf)
 
 **13.** Lindo-Atichati, D., **M. Curcic**, C. B. Paris, and P. M. Buston, 2016: Description of surface transport in the region of the Belizean Barrier Reef based on observations and alternative high-resolution models, *Oce. Mod.*, **106**, 74-89, doi:10.1016/j.ocemod.2016.09.010. [PDF](https://github.com/milancurcic/publications/blob/master/Lindo-Atichati_etal_OM2016.pdf)
 
