@@ -1,6 +1,8 @@
+**16.** Haza, A., E. D'Asaro, H. Cheng, S. S. Chen, **M. Curcic**, C. Guigand, H. S. Huntley, G. Jacobs, G. Novelli, T. M. Özgökmen, A. C. Poje, E. Ryan, and A. Scherbina, 2018: Drogue-loss detection for surface drifters during the Lagrangian Submesoscale Experiment (LASER), *J. Atmos. Oceanic Technol.*, **35(4)**, 705-725, doi:10.1175/JTECH-D-17-0143.1. [PDF](https://github.com/milancurcic/publications/blob/master/Haza_etal_JTECH2018.pdf)
+
 **15.** Dietrich, J. C., A. Muhammad, **M. Curcic**, A. Fathi, C. N. Dawson, S. S. Chen, and R. A. Luettich Jr., 2018: Sensitivity of storm surge predictions to atmospheric forcing during Hurricane Isaac, *J. Waterway, Port, Coastal, Ocean Eng.*, **144**(1): 04017035. [PDF](https://github.com/milancurcic/publications/blob/master/Dietrich_etal_WWENG2018.pdf)
 
-**14.** Laxague, N. J. M.,  **M. Curcic**, J. V. Björkqvist, and B. K. Haus, 2017: Gravity-capillary wave spectral modulation by gravity waves, *IEEE Trans. Geosci. Rem. Sens.*, In Press, doi:10.1109/TGRS.2016.2645539. [PDF](https://github.com/milancurcic/publications/blob/master/Laxague_etal_IEEE2017.pdf)
+**14.** Laxague, N. J. M.,  **M. Curcic**, J. V. Björkqvist, and B. K. Haus, 2017: Gravity-capillary wave spectral modulation by gravity waves, *IEEE Trans. Geosci. Rem. Sens.*, **55(5)**, 2477-2485, doi:10.1109/TGRS.2016.2645539. [PDF](https://github.com/milancurcic/publications/blob/master/Laxague_etal_IEEE2017.pdf)
 
 **13.** Lindo-Atichati, D., **M. Curcic**, C. B. Paris, and P. M. Buston, 2016: Description of surface transport in the region of the Belizean Barrier Reef based on observations and alternative high-resolution models, *Oce. Mod.*, **106**, 74-89, doi:10.1016/j.ocemod.2016.09.010. [PDF](https://github.com/milancurcic/publications/blob/master/Lindo-Atichati_etal_OM2016.pdf)
 
