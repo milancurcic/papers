@@ -2,6 +2,9 @@
 
 ### 2019
 
+**18.** **Curcic M.**, 2019: A parallel Fortran framework for neural networks and deep learning, [arXiv:1902.06714](https://arxiv.org/abs/1902.06714).
+
+
 **17.** Li, G., **M. Curcic**, M. Iskandarani, S. S. Chen, and O. M. Knio, 2019: Uncertainty propagation in coupled atmosphere-wave-ocean system: A study of Hurricane Earl (2010), *Mon. Wea. Rev.*, **147**, 221-245, doi:10.1175/MWR-D-17-0371.1. [PDF](https://github.com/milancurcic/publications/blob/master/Li_etal_MWR2019.pdf)
 
 ### 2018
