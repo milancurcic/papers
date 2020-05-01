@@ -1,5 +1,11 @@
 ## Publications
 
+### 2020
+
+**22.** Ott, J., M. Pritchard, N. Best, E. Linstead, **M. Curcic**, P. Baldi, 2020: A Fortran-Keras deep learning bridge for scientific computing, [arXiv:2004.10652](https://arxiv.org/abs/2004.10652).
+
+**21.** **Curcic M.** and B. K. Haus, 2020: Revised estimates of ocean surface drag in strong winds, [arXiv:2002.10590](https://arxiv.org/abs/2002.10590).
+
 ### 2019
 
 **20.** Haza A. C., N. Paldor, T. M. Özgökmen, **M. Curcic**, S. S. Chen, and G. Jacobs, 2019: Wind-based estimations of ocean surface currents from massive clusters of drifters in the Gulf of Mexico, *J. Geophys. Res. Oceans*, **124**, doi:10.1029/2018JC014813. [PDF](https://github.com/milancurcic/publications/blob/master/Haza_etal_JGR2019.pdf).
