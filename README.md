@@ -4,7 +4,7 @@
 
 **22.** Ott, J., M. Pritchard, N. Best, E. Linstead, **M. Curcic**, P. Baldi, 2020: A Fortran-Keras deep learning bridge for scientific computing, [arXiv:2004.10652](https://arxiv.org/abs/2004.10652).
 
-**21.** **Curcic M.** and B. K. Haus, 2020: Revised estimates of ocean surface drag in strong winds, [arXiv:2002.10590](https://arxiv.org/abs/2002.10590).
+**21.** **Curcic M.** and B. K. Haus, 2020: Revised estimates of ocean surface drag in strong winds, _Geophys. Res. Lett._, **47(10)**, doi: 10.1029/2020GL087647[Open Access](https://doi.org/10.1029/2020GL087647).
 
 ### 2019
 
