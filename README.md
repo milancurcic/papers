@@ -1,8 +1,12 @@
+## 2021
+
+**23.** Wang, S., A. H. Sobel, C.-Y. Lee, D. Ma, S. S. Chen, **M. Curcic**, J. Pullen, 2021: Propagating mechanisms of the 2016 Summer BSISO event: Air-sea coupling, vorticity, and moisture, _J. Geophys. Res. Atmospheres_, **126**, doi:10.1029/2020JD033284, [PDF](https://github.com/milancurcic/publications/blob/master/Wang_etal_JGR2021.pdf).
+
 ## 2020
 
 **22.** Ott, J., M. Pritchard, N. Best, E. Linstead, **M. Curcic**, P. Baldi, 2020: A Fortran-Keras deep learning bridge for scientific computing, [arXiv:2004.10652](https://arxiv.org/abs/2004.10652).
 
-**21.** **Curcic M.** and B. K. Haus, 2020: Revised estimates of ocean surface drag in strong winds, _Geophys. Res. Lett._, **47(10)**, doi: 10.1029/2020GL087647[Open Access](https://doi.org/10.1029/2020GL087647).
+**21.** **Curcic M.** and B. K. Haus, 2020: Revised estimates of ocean surface drag in strong winds, _Geophys. Res. Lett._, **47(10)**, doi: 10.1029/2020GL087647, [Open Access](https://doi.org/10.1029/2020GL087647).
 
 ## 2019
 
