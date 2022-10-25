@@ -1,4 +1,12 @@
+## 2022
+
+**26.** Kedward L., and co-authors, The state of Fortran, 2022: _Computing in Science & Engineering_, **24(2)**, doi: 10.1109/MCSE.2022.3159862, [PDF](https://github.com/milancurcic/publications/blob/master/Kedward_etal_CISE2022.pdf).
+
+**25.** Dobbelaere T., **M. Curcic**, M. Le Hénaff, and E. Hanert, Impacts of Hurricane Irma (2017) on wave-induced ocean transport processes, 2022: _Oce. Mod._, **171** [PDF](https://github.com/milancurcic/publications/blob/master/Dobbelaere_etal_OM2022.pdf).
+
 ## 2021
+
+**24.** **Curcic M.**, O. Čertík, B. Richardson, S. Ehlert, L. Kedward, A. Markus, I. Pribec, and J. Vandenplas, 2021: Toward modern Fortran tooling and a thriving developer community, [arXiv:2109.07382](https://arxiv.org/abs/2109.07382).
 
 **23.** Wang, S., A. H. Sobel, C.-Y. Lee, D. Ma, S. S. Chen, **M. Curcic**, J. Pullen, 2021: Propagating mechanisms of the 2016 Summer BSISO event: Air-sea coupling, vorticity, and moisture, _J. Geophys. Res. Atmospheres_, **126**, doi:10.1029/2020JD033284, [PDF](https://github.com/milancurcic/publications/blob/master/Wang_etal_JGR2021.pdf).
 
